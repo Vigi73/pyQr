@@ -6,7 +6,7 @@ import os
 
 import sys
 
-#
+##
 class my_window(QtWidgets.QMainWindow):
     def __init__(self):
         super(my_window, self).__init__()
